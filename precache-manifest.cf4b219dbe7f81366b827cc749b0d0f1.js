@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44f29b29a944535dbcf41efb04328a41",
+    "revision": "0bb2229eaedc1db197439799739950ee",
     "url": "/React-LightsOut/index.html"
   },
   {
-    "revision": "f0d205279f5c1fd69033",
+    "revision": "f23c63de7f91383e4e4d",
     "url": "/React-LightsOut/static/css/main.032cd1a1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-LightsOut/static/js/2.207c21a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0d205279f5c1fd69033",
-    "url": "/React-LightsOut/static/js/main.4fffe0b4.chunk.js"
+    "revision": "f23c63de7f91383e4e4d",
+    "url": "/React-LightsOut/static/js/main.31b58807.chunk.js"
   },
   {
     "revision": "e9c428c5b73641df4d82",
