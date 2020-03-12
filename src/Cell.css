@@ -6,6 +6,34 @@
   transition: background-color 0.7s ease;
 }
 
+@media (max-width: 600px) {
+  .Cell {
+  height: 80px;
+  width: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  .Cell {
+  height: 70px;
+  width: 70px;
+  }
+}
+
+@media (max-width: 430px) {
+  .Cell {
+  height: 60px;
+  width: 60px;
+  }
+}
+
+@media (max-width: 360px) {
+  .Cell {
+  height: 50px;
+  width: 50px;
+  }
+}
+
 .Cell-lit {
   background-color: #00bcd4;
 }
