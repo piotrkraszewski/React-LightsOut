@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-LightsOut/static/css/main.032cd1a1.chunk.css",
+    "main.js": "/React-LightsOut/static/js/main.4fffe0b4.chunk.js",
+    "main.js.map": "/React-LightsOut/static/js/main.4fffe0b4.chunk.js.map",
+    "runtime-main.js": "/React-LightsOut/static/js/runtime-main.e3386b6d.js",
+    "runtime-main.js.map": "/React-LightsOut/static/js/runtime-main.e3386b6d.js.map",
+    "static/js/2.207c21a1.chunk.js": "/React-LightsOut/static/js/2.207c21a1.chunk.js",
+    "static/js/2.207c21a1.chunk.js.map": "/React-LightsOut/static/js/2.207c21a1.chunk.js.map",
+    "index.html": "/React-LightsOut/index.html",
+    "precache-manifest.70ff9a727c64b3671c9580c1244a74d5.js": "/React-LightsOut/precache-manifest.70ff9a727c64b3671c9580c1244a74d5.js",
+    "service-worker.js": "/React-LightsOut/service-worker.js",
+    "static/css/main.032cd1a1.chunk.css.map": "/React-LightsOut/static/css/main.032cd1a1.chunk.css.map",
+    "static/js/2.207c21a1.chunk.js.LICENSE.txt": "/React-LightsOut/static/js/2.207c21a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3386b6d.js",
+    "static/js/2.207c21a1.chunk.js",
+    "static/css/main.032cd1a1.chunk.css",
+    "static/js/main.4fffe0b4.chunk.js"
+  ]
+}
